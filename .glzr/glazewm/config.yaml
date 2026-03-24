@@ -5,6 +5,7 @@ general:
     [
       'shell-exec C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\YASB.lnk',
       'shell-exec C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AltSnap.lnk',
+      'shell-exec C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Taskbar Hide\\Taskbar Hide.lnk',
     ]
 
   # Commands to run just before the WM is shutdown.

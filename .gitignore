@@ -1,7 +1,15 @@
+# opencode
 .config/opencode/node_modules
 .config/opencode/package.json
 .config/opencode/bun.lock
 .config/opencode/.gitignore
 .config/opencode/
+
+# scoop
+# basically its just a time of last update so i dont want make dirt commits
 .config/scoop/
+
+# cava
+
+# for all files
 *.log
