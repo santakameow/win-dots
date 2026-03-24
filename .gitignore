@@ -4,4 +4,4 @@
 .config/opencode/.gitignore
 .config/opencode/
 .config/scoop/
-**/*.log
+*.log
