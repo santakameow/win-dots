@@ -4,6 +4,7 @@ general:
   startup_commands:
     [
       'shell-exec C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\YASB.lnk',
+      'shell-exec C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AltSnap.lnk',
     ]
 
   # Commands to run just before the WM is shutdown.
