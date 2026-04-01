@@ -46,14 +46,14 @@ gaps:
   scale_with_dpi: true
 
   # Gap between adjacent windows.
-  inner_gap: "20px"
+  inner_gap: "4px"
 
   # Gap between windows and the screen edge.
   outer_gap:
-    top: "20px"
-    right: "20px"
-    bottom: "20px"
-    left: "20px"
+    top: "8px"
+    right: "4px"
+    bottom: "8px"
+    left: "4px"
 
 window_effects:
   # Visual effects to apply to the focused window.
@@ -265,14 +265,14 @@ keybindings:
     bindings: ["alt+enter"]
 
   # Focus the next/previous active workspace defined in `workspaces` config.
-  - commands: ["focus --next-active-workspace"]
-    bindings: ["alt+s"]
-  - commands: ["focus --prev-active-workspace"]
-    bindings: ["alt+a"]
+  #- commands: ["focus --next-active-workspace"]
+  #  bindings: ["alt+s"]
+  #- commands: ["focus --prev-active-workspace"]
+  #  bindings: ["alt+a"]
 
   # Focus the workspace that last had focus.
-  - commands: ["focus --recent-workspace"]
-    bindings: ["alt+d"]
+  #- commands: ["focus --recent-workspace"]
+  #  bindings: ["alt+d"]
 
   # Change focus to a workspace defined in `workspaces` config.
   - commands: ["focus --workspace 1"]
