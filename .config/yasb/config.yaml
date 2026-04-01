@@ -31,18 +31,19 @@ bars:
       left: [
           "win_button",
           "lines",
-          "clock",
-          "lines",
+          #"clock",
+          #"lines",
           "glazewm_workspaces",
-          # "lines",
+          #"lines",
           "taskbar",
         ]
       center: []
       right:
         [
           "lines",
-          "media",
-          "cava",
+          "clock",
+          #"media",
+          #"cava",
           "volume",
           "lines",
           "systray",
